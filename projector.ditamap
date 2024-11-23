@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map
+    domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   ">
+    <title xml:lang="zh-CN">投影仪使用说明</title>
+    <topicref href="how_to_connect_your_ipad_wiht_airplay.dita">
+        <topicref href="what_is_airplay.dita" xml:lang="zh-CN"/>
+        <topicref href="mirror_your_ipad_with_airplay.dita"/>
+        <topicref href="unable_to_mirror.dita"/>
+        <topicref href="reference.dita"/>
+    </topicref>
+    <topicref href="how_to_hdmi.dita">
+        <topicref href="what_is_hdmi.dita"/>
+        <topicref href="connecting_with_hdmi.dita"/>
+    </topicref>
+    <topicref href="connecting_with_vga.dita">
+        <topicref href="vga.dita"/>
+        <topicref href="connecting_your_ipad_with_vga.dita"/>
+    </topicref>
+</map>

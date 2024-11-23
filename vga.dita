@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_l4n_k1y_ldc">
+    <title>VGA接口</title>
+    <shortdesc>介绍VGA接口的历史与功能。</shortdesc>
+    <conbody>
+        <p>VGA（Video Graphics Array）即视频图形阵列，是IBM在1987年随PS/2机（PS/2 原是“Personal System
+            2”的意思，“个人系统2”，是IBM公司在1987年推出的一种个人电脑。PS/2电脑上使用的键盘鼠标接口就是现在的PS/2接口。因为标准不开放，PS/2电脑在市场中失败了。只有PS/2接口一直沿用到今天。）一起推出的使用模拟信号的一种视频传输标准，在当时具有分辨率高、显示速率快、颜色丰富等优点，在彩色显示器领域得到了广泛的应用。这个标准对于现今的个人电脑市场已经十分过时。即使如此，VGA仍然是最多制造商所共同支持的一个标准，个人电脑在加载自己的独特驱动程序之前，都必须支持VGA的标准。例如，微软Windows系列产品的开机画面仍然使用VGA显示模式，这也说明其在显示标准中的重要性和兼容性。</p>
+        <p><image href="image/VGA.png.jpg" id="image_fcm_cby_ldc" width="400px"/></p>
+    </conbody>
+</concept>
